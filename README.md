@@ -1,2 +1,8 @@
 # diploma
-This repository was created for creating diploma project
+
+Дипломный проект! 
+Дата создания: 20.01.2015
+Город: Алматы
+
+Веб-приложение на языке Java. 
+Конмадный проект
